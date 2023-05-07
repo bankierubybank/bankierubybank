@@ -6,6 +6,14 @@
 <a href="https://www.linkedin.com/in/chatchai-itkmitl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="payton-pierce" height="30" width="40" /></a>
 </p>
 
+Experiences in
+- Container Security (Aqua)
+- SAST, DAST (Fortify)
+- Software Supply Chain Security (Sonatype)
+- Vulnerability Assessment (Rapid7)
+- CI/CD Tools (Jenkins, Azure DevOps, GitHub Actions)
+- Container Platform (Docker, OpenShift)
+
 <!--
 **bankierubybank/bankierubybank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
