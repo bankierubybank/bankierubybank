@@ -1,6 +1,10 @@
 <h1 align="center">Hello there, I'm Chatchai Wongdetsakul</h1>
 <h3 align="center">DevSecOps Engineer</h3>
 
+I’m in journey to DevSecOps engineer | Team builder
+
+Passionate Cyber Security Engineer with 2+ years experience in network infrastructure security for enterprise and ISP. Seeking opportunities to bring my value to team and enhance my skills. Now I’m working on DevSecOps engineer role!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/chatchai-itkmitl/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="30" /></a>
