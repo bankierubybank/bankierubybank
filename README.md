@@ -12,12 +12,15 @@ Passionate Cyber Security Engineer with 2+ years experience in network infrastru
 <a href="https://www.credly.com/users/chatchai-wongdetsakul/badges" target="blank"><img align="center" src="https://info.credly.com/hubfs/Credly_images_2022/Logo-2.svg" height="30" /></a>
 </p>
 
+<h3 align="left">Badges:</h3>
+<a href="https://training.cyberark.com/share/v1/gamification/assigned_badge/01eb7186-cc48-4372-b910-461a69c153ed/shared?lang=en&t=1710824334217"><img align="center" src="https://cdn5.dcbstatic.com/files/c/y/cyberark_docebosaas_com/assets/badges/original/9a042cf5ee2f20d257cc33bfe48a73ffff4cbcf8.png" height="75" /></a>
+
 Experiences in
 - Container Security (Aqua)
 - SAST, DAST (Fortify)
 - Software Supply Chain Security (Sonatype)
 - Vulnerability Assessment (Rapid7)
-- CI/CD Tools (Jenkins, Azure DevOps, GitHub Actions)
+- CI/CD Tools (Jenkins, Azure DevOps, GitLab CI, GitHub Actions)
 - Container Platform (Docker, OpenShift)
 
 <!--
