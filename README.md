@@ -1,9 +1,7 @@
 <h1 align="center">Hello there, I'm Chatchai Wongdetsakul</h1>
-<h3 align="center">DevSecOps Engineer</h3>
+<h3 align="center">Security Technical Architect</h3>
 
-I’m in journey to DevSecOps engineer | Team builder
-
-Passionate Cyber Security Engineer with 2+ years experience in network infrastructure security for enterprise and ISP. Seeking opportunities to bring my value to team and enhance my skills. Now I’m working on DevSecOps engineer role!
+Security Technical Architect at NTT (Thailand); 5+ years' experience in Cybersecurity (Infrastructure and DevOps)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +24,7 @@ Experiences in
 - Software Supply Chain Security (Sonatype)
 - Vulnerability Assessment (Rapid7)
 - CI/CD Tools (Jenkins, Azure DevOps, GitLab CI, GitHub Actions)
+- Cloud (Azure)
 - Container Platform (Docker, OpenShift)
 
 <!--
