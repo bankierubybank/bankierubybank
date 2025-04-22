@@ -16,7 +16,7 @@ Microsoft Certified: Azure Fundamentals (AZ-900)
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/chatchai-w/10A901C8C6E93921?sharingId=E2C97D8DBAE1CF93"><img align="center" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="75" /></a>
 
 <h3 align="left">Badges:</h3>
-<a href="https://training.cyberark.com/share/v1/gamification/assigned_badge/01eb7186-cc48-4372-b910-461a69c153ed/shared?lang=en&t=1710824334217"><img align="center" src="https://cdn5.dcbstatic.com/files/c/y/cyberark_docebosaas_com/assets/badges/original/9a042cf5ee2f20d257cc33bfe48a73ffff4cbcf8.png" height="75" /></a>
+<a href="https://training.cyberark.com/share/v1/gamification/assigned_badge/a0a99aff-3715-48b0-8c83-0540246addab/shared?lang=en&t=1745338645220"><img align="center" src="https://cdn5.dcbstatic.com/files/c/y/cyberark_docebosaas_com/assets/badges/original/9a042cf5ee2f20d257cc33bfe48a73ffff4cbcf8.png" height="75" /></a>
 
 Experiences in
 - Container Security (Aqua)
