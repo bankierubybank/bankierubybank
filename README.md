@@ -10,7 +10,11 @@ Security Technical Architect at NTT (Thailand); 5+ years' experience in Cybersec
 <a href="https://www.credly.com/users/chatchai-wongdetsakul/badges" target="blank"><img align="center" src="https://info.credly.com/hubfs/Credly_images_2022/Logo-2.svg" height="30" /></a>
 </p>
 
-<h3 align="left">Certificates:</h3>
+<h3 align="left">Professional Certificates:</h3>
+Kubernetes and Cloud Native Associate (KCNA)
+
+<a href="https://www.credly.com/badges/52ed3a40-d9d1-44a2-a029-329e656add93"><img align="center" src="https://training.linuxfoundation.org/wp-content/uploads/2021/09/KCNA-Logo.png" height="75" /></a>
+
 Microsoft Certified: Azure Fundamentals (AZ-900)
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/chatchai-w/10A901C8C6E93921?sharingId=E2C97D8DBAE1CF93"><img align="center" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="75" /></a>
