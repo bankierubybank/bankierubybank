@@ -15,15 +15,19 @@ Kubernetes and Cloud Native Associate (KCNA)
 
 <a href="https://www.credly.com/badges/52ed3a40-d9d1-44a2-a029-329e656add93"><img align="center" src="https://training.linuxfoundation.org/wp-content/uploads/2021/09/KCNA-Logo.png" height="75" /></a>
 
+Kubernetes and Cloud Native Security Associate (KCSA)
+
+<a href="https://www.credly.com/badges/f51ee715-2764-416d-89b7-d2ed4f156d0b"><img align="center" src="https://images.credly.com/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" height="75" /></a>
+
 Microsoft Certified: Azure Fundamentals (AZ-900)
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/chatchai-w/10A901C8C6E93921?sharingId=E2C97D8DBAE1CF93"><img align="center" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="75" /></a>
 
 Experiences in
 - Container Security (Aqua)
-- SAST, DAST (Fortify)
+- SAST, DAST (Fortify, Checkmarx)
 - Software Supply Chain Security (Sonatype)
-- Vulnerability Assessment (Rapid7)
+- Vulnerability Assessment (Rapid7, Tenable)
 - CI/CD Tools (Jenkins, Azure DevOps, GitLab CI, GitHub Actions)
 - Cloud (Azure)
 - Container Platform (Docker, OpenShift)
