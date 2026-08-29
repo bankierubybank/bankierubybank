@@ -8,6 +8,7 @@ Security Technical Architect at NTT (Thailand); 5+ years' experience in Cybersec
 <a href="https://www.linkedin.com/in/chatchai-itkmitl/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="30" /></a>
 <a href="https://learn.microsoft.com/en-us/users/chatchai-w/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="30" /></a>
 <a href="https://www.credly.com/users/chatchai-wongdetsakul/badges" target="blank"><img align="center" src="https://info.credly.com/hubfs/Credly_images_2022/Logo-2.svg" height="30" /></a>
+<a href="https://www.credential.net/profile/bankierubybank/wallet" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8KE-p5J0gfxyDnNkRt1lXRC94Anf7mSf1up2DiisVlPZJPXhxphTMkHA&s=10" height="30" /></a>
 </p>
 
 <h3 align="left">Professional Certificates:</h3>
